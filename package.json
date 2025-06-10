@@ -1,0 +1,25 @@
+{
+  "name": "teste-loja",
+  "version": "1.0.0",
+  "description": "Projeto NodeJS e MySQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahsurmaczv/teste-loja.git"
+  },
+  "keywords": [
+    "express",
+    "express-handlebars",
+    "bootstrap",
+    "mysql"
+  ],
+  "author": "Sabrina Surmacz Valentim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahsurmaczv/teste-loja/issues"
+  },
+  "homepage": "https://github.com/sahsurmaczv/teste-loja#readme"
+}
